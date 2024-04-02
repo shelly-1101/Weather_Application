@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Search"
+        app:showAsAction="ifRoom"
+        android:id="@+id/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:icon="@drawable/ic_baseline_search_24"
+        />
+
+    <item
+        android:id="@+id/reset_latest_loc"
+        android:title="Reset to Latest data Location"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/location_on_map"
+        android:title="@string/get_location_on_map"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/rate_it"
+        android:title="@string/rate_it"
+        app:showAsAction="never" />
+</menu>

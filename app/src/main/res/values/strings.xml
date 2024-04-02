@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">insta_weather</string>
+    <string name="refresh">Refresh</string>
+    <string name="get_location_on_map">Get Location on Map</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="rate_it">Rate it</string>
+    <string name="exit">Exit</string>
+    <string name="gautam_budh_in">Gautam Budh,IN</string>
+    <string name="fetching_data">Fetching data</string>
+    <string name="last_update_12_30_pm">Last update 12:30 PM</string>
+    <string name="clear_clear_sky">Clear, clear sky</string>
+    <string name="_22">22°</string>
+    <string name="_23_45_c">23.45°C</string>
+    <string name="humidity">Humidity</string>
+    <string name="_24">24%</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_3_6m_s">3.6m/s</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1016mb">1016mB</string>
+</resources>
